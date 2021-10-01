@@ -1,6 +1,6 @@
 # Booking and reservations
 
-This is for learning GO with a basic web sites
+This is for learning GO with a basic web site
 
 - Build in GO 1.17
 - Uses the [chi router] (github.com/go-chi/chi)
